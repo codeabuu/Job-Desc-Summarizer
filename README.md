@@ -16,10 +16,11 @@ To run the web app:
 1. ```bash
     git clone https://github.com/codeabuu/Job-Desc-Summarizer.git
     ```
-2. Install the necessary dependecies from `requirements.txt` ```bash
+2. Install the necessary dependecies from `requirements.txt` 
+    ```bash
     pip install -r requirements.txt
    ```
-3. To run the web app, execute this in the command line:
+4. Execute this in the command line:
 `streamlit run main.py`
 
 **Note**: OPENAI_API_KEY is required to run this program.
